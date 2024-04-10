@@ -1,7 +1,7 @@
 💫 About Me:
 Hello It’s Me Shiref
 This Script Makes Minecraft Server over Python servers no need for sudo / admin privileges
-you Can download the latest one form the releses page
+<h> you Can download the latest one form the releses page </h>
 
 Give Me a star please
 thx
